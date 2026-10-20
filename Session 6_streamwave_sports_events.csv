@@ -1,0 +1,18 @@
+subscriber_id,teaching_alias,event_name,interaction_type
+SW100000,A,Soccer recaps,watched_historical
+SW100000,A,Champions League previews,watched_historical
+SW100006,B,Soccer recaps,watched_historical
+SW100006,B,Champions League previews,watched_historical
+SW100006,B,Champions League fixture,interested_in_upcoming
+SW100015,C,Soccer recaps,watched_historical
+SW100015,C,Champions League previews,watched_historical
+SW100015,C,Champions League fixture,interested_in_upcoming
+SW100019,D,NBA recaps,watched_historical
+SW100019,D,Basketball highlights,watched_historical
+SW100019,D,NBA game,interested_in_upcoming
+SW100020,E,NBA recaps,watched_historical
+SW100020,E,Basketball highlights,watched_historical
+SW100020,E,NBA game,interested_in_upcoming
+SW100032,F,NBA recaps,watched_historical
+SW100032,F,Soccer recaps,watched_historical
+SW100032,F,NBA game,interested_in_upcoming
